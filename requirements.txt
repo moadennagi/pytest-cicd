@@ -1,5 +1,5 @@
-pytest
-coverage
-pylint
-black
-ipython
+pytest==7.2.1
+pytest==7.2.1
+pytest==7.2.1
+pytest==7.2.1
+pytest==7.2.1
