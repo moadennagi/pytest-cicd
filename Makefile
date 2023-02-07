@@ -6,5 +6,5 @@ test:
 format:
 	black *.py
 lint:
-	pylint --disable=R,C hello
+	pylint --disable=R,C ./hello
 all: install lint test
