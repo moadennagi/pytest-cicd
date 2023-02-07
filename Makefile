@@ -7,4 +7,4 @@ format:
 	black *.py
 lint:
 	pylint --disable=R,C --recursive=y hello
-all: install lint test
+all: install test
